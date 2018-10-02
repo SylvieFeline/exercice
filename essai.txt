@@ -1,1 +1,2 @@
 aaa   exemple d'utilisation de cmder et  git
+bbb   exemple d'ajout de texte pour nouveau commit
